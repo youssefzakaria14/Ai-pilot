@@ -1,0 +1,6 @@
+Model,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Hospital 1 (Local),77.42,79.63,93.48,86.0,70.79
+Hospital 2 (Local),74.19,74.19,100.0,85.19,46.2
+Hospital 3 (Local),61.29,78.95,65.22,71.43,62.77
+Centralized Model (All Data),74.19,82.61,82.61,82.61,72.15
+Federated Global Model (FedAvg),74.19,75.0,97.83,84.91,77.58
